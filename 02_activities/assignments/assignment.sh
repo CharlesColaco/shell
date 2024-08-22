@@ -22,4 +22,5 @@ set -x
 # 7. Delete directories dir4 and dir5 including all their contents (if any)
   rm -r dir4 dir5 #assuming I was already in the parent directory when I creted the directories
 # 8. List the contents of the parent directory to verify the deletion of dir4 and dir5
-  ls #assuming I was already in the parent directory when I creted the directories
+  ls 
+  #assuming I was already in the parent directory when I creted the directories
